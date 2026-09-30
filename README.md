@@ -1,4 +1,4 @@
-# Horizon
+# Horizon 
 
 [Getting started](#getting-started) |
 [Staying up to date with Horizon changes](#staying-up-to-date-with-horizon-changes) |
